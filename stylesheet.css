@@ -1,0 +1,53 @@
+*{
+margin: 0 auto;
+}
+body{
+	background-color: #E5EAEE;
+	font-family: 'Chivo', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+header{
+	height: 80px;
+	width: 100%;
+	background-color: #003680;
+}
+#logo{
+	float: left;
+	margin-left: 70px;
+}
+#logo img{
+	height: 60px;
+	margin-top: 10px;
+}
+#Headline{
+	float: left;
+}
+#Headline h1{
+	color: white;
+	margin: 15px;
+	font-size: 40px;
+}
+#Amsterdam , #London{
+	height: 380px;
+	width: 373px;
+	background-color: white;
+	float: left;
+	margin: 50px;
+	margin-left: 70px;
+	border: solid 1px gray;
+	box-shadow: 0px 10px 10px 0px #888888
+}
+.pics{
+	width: 373px;
+	height: 300px;
+}
+.boxes h2{
+	color: #5EBEDF;
+	font-size: 30px;
+	margin-left: 5px;
+}
+.boxes h3{
+	color: #5C5C5C;
+	font-size: 20px;
+	margin-left: 5px;
+}
